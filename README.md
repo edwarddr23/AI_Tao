@@ -1,1 +1,2 @@
-Project written for AI class (Fall 2024)
+Fall 2024
+Project written for AI class
